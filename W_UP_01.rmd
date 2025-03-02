@@ -70,3 +70,4 @@ The probability we get the p-value is 0.000009421. I conclude that "skill" playe
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+The data shows a clear difference in push-up performance between "skill" and "line" players. On average, "skill" players do about 50 push-ups, while "line" players average 17, a difference of 33 push-ups. This means "skill" players do nearly three times as many push-ups as "line" players. The very small p-value of 0.000009421 shows that the difference is statistically significant, confirming that "skill" players have greater endurance and perform more push-ups than "line" players.
